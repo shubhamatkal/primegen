@@ -1,5 +1,7 @@
 # primegen
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/shubhamatkal/primegen)](https://goreportcard.com/report/github.com/shubhamatkal/primegen)
+
 A high-performance prime number generation library for Go that implements both regular and segmented Sieve of Eratosthenes algorithms.
 
 ## Features
