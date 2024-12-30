@@ -1,7 +1,7 @@
 # primegen
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/shubhamatkal/primegen)](https://goreportcard.com/report/github.com/shubhamatkal/primegen)
-[![Go Reference](https://pkg.go.dev/badge/github.com/shubhamatkal/primegen.svg)]([https://pkg.go.dev/github.com/YOUR_USERNAME/primegen](https://pkg.go.dev/github.com/shubhamatkal/primegen)) 
+[![Go Reference](https://pkg.go.dev/badge/github.com/shubhamatkal/primegen.svg)]([https://pkg.go.dev/github.com/shubhamatkal/primegen](https://pkg.go.dev/github.com/shubhamatkal/primegen)) 
 
 A high-performance prime number generation library for Go that implements both regular and segmented Sieve of Eratosthenes algorithms.
 
